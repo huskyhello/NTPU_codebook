@@ -1,237 +1,79 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.2)  6 NOV 2020 16:18
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2021.3.3)  3 MAR 2021 22:28
 entering extended mode
 **./codebook.tex
 (codebook.tex
-LaTeX2e <2019-10-01> patch level 3
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.c
-ls"
-Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.cl
-o"
-File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
+y"
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks20
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.
-sty"
-Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks14
-\thm@bodyfont=\toks15
-\thm@headfont=\toks16
-\thm@notefont=\toks17
-\thm@headpunct=\toks18
-\thm@preskip=\skip43
-\thm@postskip=\skip44
-\thm@headsep=\skip45
-\dth@everypar=\toks19
-)
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
-mb.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
-nts.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks20
+\@emptytoks=\toks21
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fonts
-pec.sty"
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpa
-rse\xparse.sty"
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
-.sty"
-Package: expl3 2019-11-07 L3 programming layer (loader) 
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
+sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
+xparse.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+"
+Package: expl3 2020-04-06 L3 programming layer (loader) 
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
--code.tex"
-Package: expl3 2019-11-07 L3 programming layer (code)
-\c_max_int=\count88
-\l_tmpa_int=\count89
-\l_tmpb_int=\count90
-\g_tmpa_int=\count91
-\g_tmpb_int=\count92
-\l__seq_internal_a_int=\count93
-\l__seq_internal_b_int=\count94
-\g__kernel_prg_map_int=\count95
-\c__ior_term_noprompt_ior=\count96
-\c_log_iow=\count97
-\l_iow_line_count_int=\count98
-\l__iow_line_target_int=\count99
-\l__iow_one_indent_int=\count100
-\l__iow_indent_int=\count101
-\c_zero_dim=\dimen103
-\c_max_dim=\dimen104
-\l_tmpa_dim=\dimen105
-\l_tmpb_dim=\dimen106
-\g_tmpa_dim=\dimen107
-\g_tmpb_dim=\dimen108
-\c_zero_skip=\skip46
-\c_max_skip=\skip47
-\l_tmpa_skip=\skip48
-\l_tmpb_skip=\skip49
-\g_tmpa_skip=\skip50
-\g_tmpb_skip=\skip51
-\c_zero_muskip=\muskip10
-\c_max_muskip=\muskip11
-\l_tmpa_muskip=\muskip12
-\l_tmpb_muskip=\muskip13
-\g_tmpa_muskip=\muskip14
-\g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count102
-\l__intarray_loop_int=\count103
-\c__intarray_sp_dim=\dimen109
-\g__intarray_font_int=\count104
-\c__fp_leading_shift_int=\count105
-\c__fp_middle_shift_int=\count106
-\c__fp_trailing_shift_int=\count107
-\c__fp_big_leading_shift_int=\count108
-\c__fp_big_middle_shift_int=\count109
-\c__fp_big_trailing_shift_int=\count110
-\c__fp_Bigg_leading_shift_int=\count111
-\c__fp_Bigg_middle_shift_int=\count112
-\c__fp_Bigg_trailing_shift_int=\count113
-\g__fp_array_int=\count114
-\l__fp_array_loop_int=\count115
-\l__sort_length_int=\count116
-\l__sort_min_int=\count117
-\l__sort_top_int=\count118
-\l__sort_max_int=\count119
-\l__sort_true_max_int=\count120
-\l__sort_block_int=\count121
-\l__sort_begin_int=\count122
-\l__sort_end_int=\count123
-\l__sort_A_int=\count124
-\l__sort_B_int=\count125
-\l__sort_C_int=\count126
-\l__str_internal_int=\count127
-\l__tl_analysis_normal_int=\count128
-\l__tl_analysis_index_int=\count129
-\l__tl_analysis_nesting_int=\count130
-\l__tl_analysis_type_int=\count131
-\l__regex_internal_a_int=\count132
-\l__regex_internal_b_int=\count133
-\l__regex_internal_c_int=\count134
-\l__regex_balance_int=\count135
-\l__regex_group_level_int=\count136
-\l__regex_mode_int=\count137
-\c__regex_cs_in_class_mode_int=\count138
-\c__regex_cs_mode_int=\count139
-\l__regex_catcodes_int=\count140
-\l__regex_default_catcodes_int=\count141
-\c__regex_catcode_L_int=\count142
-\c__regex_catcode_O_int=\count143
-\c__regex_catcode_A_int=\count144
-\c__regex_all_catcodes_int=\count145
-\l__regex_show_lines_int=\count146
-\l__regex_min_state_int=\count147
-\l__regex_max_state_int=\count148
-\l__regex_left_state_int=\count149
-\l__regex_right_state_int=\count150
-\l__regex_capturing_group_int=\count151
-\l__regex_min_pos_int=\count152
-\l__regex_max_pos_int=\count153
-\l__regex_curr_pos_int=\count154
-\l__regex_start_pos_int=\count155
-\l__regex_success_pos_int=\count156
-\l__regex_curr_char_int=\count157
-\l__regex_curr_catcode_int=\count158
-\l__regex_last_char_int=\count159
-\l__regex_case_changed_char_int=\count160
-\l__regex_curr_state_int=\count161
-\l__regex_step_int=\count162
-\l__regex_min_active_int=\count163
-\l__regex_max_active_int=\count164
-\l__regex_replacement_csnames_int=\count165
-\l__regex_match_count_int=\count166
-\l__regex_min_submatch_int=\count167
-\l__regex_submatch_int=\count168
-\l__regex_zeroth_submatch_int=\count169
-\g__regex_trace_regex_int=\count170
-\c_empty_box=\box27
-\l_tmpa_box=\box28
-\l_tmpb_box=\box29
-\g_tmpa_box=\box30
-\g_tmpb_box=\box31
-\l__box_top_dim=\dimen110
-\l__box_bottom_dim=\dimen111
-\l__box_left_dim=\dimen112
-\l__box_right_dim=\dimen113
-\l__box_top_new_dim=\dimen114
-\l__box_bottom_new_dim=\dimen115
-\l__box_left_new_dim=\dimen116
-\l__box_right_new_dim=\dimen117
-\l__box_internal_box=\box32
-\l__coffin_internal_box=\box33
-\l__coffin_internal_dim=\dimen118
-\l__coffin_offset_x_dim=\dimen119
-\l__coffin_offset_y_dim=\dimen120
-\l__coffin_x_dim=\dimen121
-\l__coffin_y_dim=\dimen122
-\l__coffin_x_prime_dim=\dimen123
-\l__coffin_y_prime_dim=\dimen124
-\c_empty_coffin=\box34
-\l__coffin_aligned_coffin=\box35
-\l__coffin_aligned_internal_coffin=\box36
-\l_tmpa_coffin=\box37
-\l_tmpb_coffin=\box38
-\g_tmpa_coffin=\box39
-\g_tmpb_coffin=\box40
-\l__coffin_bounding_shift_dim=\dimen125
-\l__coffin_left_corner_dim=\dimen126
-\l__coffin_right_corner_dim=\dimen127
-\l__coffin_bottom_corner_dim=\dimen128
-\l__coffin_top_corner_dim=\dimen129
-\l__coffin_scaled_total_height_dim=\dimen130
-\l__coffin_scaled_width_dim=\dimen131
-\c__coffin_empty_coffin=\box41
-\l__coffin_display_coffin=\box42
-\l__coffin_display_coord_coffin=\box43
-\l__coffin_display_pole_coffin=\box44
-\l__coffin_display_offset_dim=\dimen132
-\l__coffin_display_x_dim=\dimen133
-\l__coffin_display_y_dim=\dimen134
-\g__char_data_ior=\read1
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3dep
-recation.def"
-File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
-))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3ba
-ckend-xdvipdfmx.def"
-File: l3backend-xdvipdfmx.def 2019-04-06 L3 backend support: xdvipdfmx
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count171
 \l__pdf_internal_box=\box45
 \g__pdf_backend_object_int=\count172
 \g__pdf_backend_annotation_int=\count173
 ))
-Package: xparse 2019-10-11 L3 Experimental document command parser
+Package: xparse 2020-03-06 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count174
 \g__xparse_grabber_int=\count175
 \l__xparse_m_args_int=\count176
 \l__xparse_v_nesting_int=\count177
 )
-Package: fontspec 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fonts
-pec-xetex.sty"
-Package: fontspec-xetex 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTe
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-
+xetex.sty"
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count178
 \l__fontspec_language_int=\count179
@@ -248,44 +90,30 @@ X
 \l__fontspec_tmpb_dim=\dimen136
 \l__fontspec_tmpc_dim=\dimen137
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.s
-ty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\tuenc.def
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
+cfg")))
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
 "
-File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fonts
-pec.cfg")
-LaTeX Info: Redefining \itshape on input line 4047.
-LaTeX Info: Redefining \slshape on input line 4052.
-LaTeX Info: Redefining \scshape on input line 4057.
-LaTeX Info: Redefining \upshape on input line 4062.
-LaTeX Info: Redefining \em on input line 4092.
-LaTeX Info: Redefining \emph on input line 4117.
-))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color
-.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
-olor.cfg"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\x
-etex.def"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex
+.def"
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.
-sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
-olor.cfg"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -299,20 +127,19 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\x11nam.
-def"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\x11nam.def"
 File: x11nam.def 2016/05/11 v2.12 Predefined colors according to Unix/X11 (UK)
 ))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listi
-ngs.sty"
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
-l.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks22
 )
 \lst@mode=\count189
 \lst@gtempboxa=\box46
-\lst@token=\toks22
+\lst@token=\toks23
 \lst@length=\count190
 \lst@currlwidth=\dimen138
 \lst@column=\count191
@@ -323,23 +150,23 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \lst@lineno=\count194
 \lst@maxwidth=\dimen141
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmi
-sc.sty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count195
 \lst@skipnumbers=\count196
 \lst@framebox=\box47
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listi
-ngs.cfg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancy
-hdr.sty"
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip52
 \f@nch@O@elh=\skip53
 \f@nch@O@erh=\skip54
@@ -350,20 +177,19 @@ s
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
-icx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
-ics.sty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
 sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
-raphics.cfg"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
@@ -371,48 +197,48 @@ Package graphics Info: Driver file: xetex.def on input line 105.
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerat
-e.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
+y"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks23
+\@enLab=\toks24
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\title
-sec.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box48
 \beforetitleunit=\skip61
 \aftertitleunit=\skip62
 \ttl@plus=\dimen144
 \ttl@minus=\dimen145
-\ttl@toksa=\toks24
+\ttl@toksa=\toks25
 \titlewidth=\dimen146
 \titlewidthlast=\dimen147
 \titlewidthfirst=\dimen148
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
-h.sty"
-Package: amsmath 2019/11/16 v2.17d AMS math features
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip63
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
-t.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
-.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks25
+\@emptytoks=\toks26
 \ex@=\dimen149
 ))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
-.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen150
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
-.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count197
@@ -435,44 +261,47 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count270
 \dspbrk@lvl=\count271
-\tag@help=\toks26
+\tag@help=\toks27
 \row@=\count272
 \column@=\count273
 \maxfields@=\count274
-\andhelp@=\toks27
+\andhelp@=\toks28
 \eqnshift@=\dimen152
 \alignsep@=\dimen153
 \tagshift@=\dimen154
 \tagwidth@=\dimen155
 \totwidth@=\dimen156
 \lineht@=\dimen157
-\@envbody=\toks28
+\@envbody=\toks29
 \multlinegap=\skip64
 \multlinetaggap=\skip65
-\mathdisplay@stack=\toks29
-LaTeX Info: Redefining \[ on input line 2858.
-LaTeX Info: Redefining \] on input line 2859.
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.
-sty"
-Package: xeCJK 2019/06/02 v3.7.4 Typesetting CJK scripts with XeLaTeX
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.sty"
+Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xte
-mplate\xtemplate.sty"
-Package: xtemplate 2019-10-11 L3 Experimental prototype document functions
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2
+e\l3keys2e.sty"
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xtempla
+te\xtemplate.sty"
+Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen158
 \l__xtemplate_tmp_int=\count275
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip66
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3k
-eys2e\l3keys2e.sty"
-Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
-)
 \l__xeCJK_tmp_int=\count276
 \l__xeCJK_tmp_box=\box51
 \l__xeCJK_tmp_dim=\dimen159
 \l__xeCJK_tmp_skip=\skip67
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ctex\ctexhook.sty"
+Package: ctexhook 2020/10/19 v2.5.5 Document and package hooks (CTEX)
+)
 \g__xeCJK_space_factor_int=\count277
 \l__xeCJK_begin_int=\count278
 \l__xeCJK_end_int=\count279
@@ -501,7 +330,7 @@ Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 \l__xeCJK_widow_penalty_int=\count282
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2323.
+(xtemplate)             argument(s) on line 2341.
 
 \l__xeCJK_fixed_punct_width_dim=\dimen168
 \l__xeCJK_mixed_punct_width_dim=\dimen169
@@ -528,13 +357,18 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_verb_case_int=\count286
 \l__xeCJK_verb_exspace_skip=\skip72
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.
-cfg"
-File: xeCJK.cfg 2019/06/02 v3.7.4 Configuration file for xeCJK package
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK-list
+ings.sty"
+Package: xeCJK-listings 2020/10/19 v3.8.6 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count287
+\l__xeCJK_listings_flag_int=\count288
+)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.cfg"
+File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
 ))
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier
-.sty"
-Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier.sty
+"
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
 
 Package fontspec Info: Font family 'Consolas(0)' created for font 'Consolas'
@@ -544,23 +378,22 @@ Package fontspec Info: Font family 'Consolas(0)' created for font 'Consolas'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"Consolas/OT:script=latn;language=DFLT;mapping=tex-te
+(fontspec)             <->"Consolas/OT:script=latn;language=dflt;mapping=tex-te
 xt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->"Consolas/B/OT:script=latn;language=DFLT;mapping=tex-
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Consolas/B/OT:script=latn;language=dflt;mapping=tex-
 text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"Consolas/I/OT:script=latn;language=DFLT;mapping=tex-
+(fontspec)             <->"Consolas/I/OT:script=latn;language=dflt;mapping=tex-
 text;"
-(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
-(fontspec)             <->"Consolas/BI/OT:script=latn;language=DFLT;mapping=tex
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Consolas/BI/OT:script=latn;language=dflt;mapping=tex
 -text;"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Info: Redefining \rmfamily on input line 40.
 
 Package fontspec Info: Font family 'Consolas(1)' created for font 'Consolas'
 (fontspec)             with options
@@ -571,39 +404,46 @@ Space].
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"Consolas/OT:script=latn;language=DFLT;"
+(fontspec)             <->"Consolas/OT:script=latn;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
 (fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->"Consolas/B/OT:script=latn;language=DFLT;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Consolas/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
 (fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"Consolas/I/OT:script=latn;language=DFLT;"
-(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             <->"Consolas/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
 (fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
-(fontspec)             <->"Consolas/BI/OT:script=latn;language=DFLT;"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Consolas/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
 (fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 41.
+
+Package fontspec Info: Could not resolve font "Noto Sans CJK TC/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Noto Sans CJK TC/B" (it
+(fontspec)             probably doesn't exist).
+
 
 Package fontspec Info: Could not resolve font "Noto Sans CJK TC/I" (it
 (fontspec)             probably doesn't exist).
@@ -616,48 +456,41 @@ Package fontspec Info: Font family 'NotoSansCJKTC(0)' created for font 'Noto
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Sans CJK
-(fontspec)             TC/OT:script=hani;language=DFLT;"
+(fontspec)             TC/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Noto Sans CJK
-(fontspec)             TC/B/OT:script=hani;language=DFLT;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Noto Sans
-(fontspec)             CJK TC/BI/OT:script=hani;language=DFLT;"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstla
-ng1.sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstla
-ng1.sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmi
-sc.sty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 \symCJKmath=\mathgroup255
-LaTeX Font Info:    Overwriting symbol font `CJKmath' in version `bold'
-(Font)                  TU/NotoSansCJKTC(0)/m/n --> TU/NotoSansCJKTC(0)/bx/n on
- input line 75.
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK-
-listings.sty"
-Package: xeCJK-listings 2019/06/02 v3.7.4 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count287
-\l__xeCJK_listings_flag_int=\count288
-) (codebook.aux)
+ (codebook.aux)
 \openout1 = `codebook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+5.
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
 LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
@@ -709,33 +542,31 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/Consolas(0)/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Consolas(0)/bx/n on input line 75.
+(Font)                  OT1/cmr/bx/n --> TU/Consolas(0)/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/Consolas(1)/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Consolas(0)/m/n --> TU/Consolas(0)/bx/n on input lin
-e 75.
+(Font)                  TU/Consolas(0)/m/n --> TU/Consolas(0)/b/n on input line
+ 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Consolas(0)/bx/it on input line 75
-.
+(Font)                  OT1/cmr/bx/it --> TU/Consolas(0)/b/it on input line 75.
+
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 75.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/Consolas(1)/bx/n on input line 75.
+(Font)                  OT1/cmtt/m/n --> TU/Consolas(1)/b/n on input line 75.
 \c@lstlisting=\count289
- (codebook.toc
+
+(codebook.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
-fd"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-("C:\Users\nsl814888\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
-fd"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
@@ -749,83 +580,213 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 
 (Basic/compile.txt) (Basic/default.cpp) (Basic/bug_list.txt)
 
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
-Make it at least 3.60004pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [1
 
 ] (DarkCode/IO_optimization.cpp) (Flow/dinic.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2])
-(Flow/Gomory_Hu.cpp) (Flow/Min_Cost_Max_Flow.cpp) (Geometry/2Dpoint.cpp
-[3]) (Geometry/circumcentre.cpp) (Geometry/ConvexHull.cpp
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[2]) (Flow/Gomory_Hu.cpp) (Flow/Min_Cost_Max_Flow.cpp) (Geometry/2Dpoint.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[3])
+
+LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/b/n' undefined
+(Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 29.
+
+(Geometry/circumcentre.cpp) (Geometry/ConvexHull.cpp
 
 LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/m/it' undefined
 (Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 3.
 
 ) (Geometry/half_plane_intersection.cpp)
 (Geometry/Intersection_of_two_circle.cpp)
-(Geometry/Intersection_of_two_lines.cpp) (Geometry/Smallest_Circle.cpp [4])
-(Math/ax+by=gcd.cpp) (Math/Bigint.cpp
+(Geometry/Intersection_of_two_lines.cpp) (Geometry/Smallest_Circle.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[4]) (Math/ax+by=gcd.cpp) (Math/Bigint.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5])
-(Math/fft.cpp) (Math/FWHT.cpp) (Math/GaussElimination.cpp) (Math/Inverse.cpp)
-(Math/LinearPrime.cpp [6]) (Math/Miller-Rabin.cpp) (Math/pollardRho.cpp)
-(Math/number_tool.cpp) (Math/Mobius.cpp) (Math/Simplex.cpp [7]
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[5]) (Math/fft.cpp) (Math/FWHT.cpp) (Math/GaussElimination.cpp)
+(Math/Inverse.cpp) (Math/LinearPrime.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[6]) (Math/Miller-Rabin.cpp) (Math/pollardRho.cpp) (Math/number_tool.cpp)
+(Math/Mobius.cpp) (Math/Simplex.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(Math/Sprague-Grundy.cpp [8]) (Math/theorem.cpp) (Graph/BCC_edge.cpp)
-(Graph/Dijkstra.cpp [9]) (Graph/Domination.txt) (Graph/DominatorTree.cpp)
-(Graph/Kosaraju_SCC.cpp [10]) (Graph/ManhattanMST.cpp
+(Math/Sprague-Grundy.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[8]) (Math/theorem.cpp) (Graph/BCC_edge.cpp) (Graph/Dijkstra.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[9]) (Graph/Domination.txt) (Graph/DominatorTree.cpp) (Graph/Kosaraju_SCC.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[10]) (Graph/ManhattanMST.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11])
-(Graph/Matching/Hungarian.cpp) (Graph/Matching/Kuhn_Munkres.cpp)
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[11]) (Graph/Matching/Hungarian.cpp) (Graph/Matching/Kuhn_Munkres.cpp)
 (Graph/Matching/Matching.txt) (Graph/Matching/Maximum_General_Matching.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
 [12]) (Graph/Matching/Minimum_General_Weighted_Matching.cpp)
-(Graph/MaximumClique.cpp [13]) (Graph/MinimumSteinerTree.cpp)
-(Graph/Min_mean_cycle.cpp [14]) (Graph/negative_cycle_validation.cpp)
+(Graph/MaximumClique.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[13]) (Graph/MinimumSteinerTree.cpp) (Graph/Min_mean_cycle.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[14]) (Graph/negative_cycle_validation.cpp)
 Underfull \vbox (badness 1009) has occurred while \output is active []
 
 
-(Graph/Tarjan.cpp) (DataStructure/2D_RangeTree.cpp [15])
-(DataStructure/ext_heap.cpp) (DataStructure/KDTree.cpp [16])
-(DataStructure/link_cut_tree.cpp
+(Graph/Tarjan.cpp) (DataStructure/2D_RangeTree.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[15]) (DataStructure/ext_heap.cpp) (DataStructure/KDTree.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[16]) (DataStructure/link_cut_tree.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17])
-(DataStructure/SparseTable.h) (DataStructure/Treap_Lin.cpp
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[17]) (DataStructure/SparseTable.h) (DataStructure/Treap_Lin.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18])
-(String/AC.cpp) (String/KMP.h) (String/PalindromicTree.cpp [19])
-(String/SAM.cpp) (String/smallest_rotation.cpp) (String/suffix_array.cpp)
-(String/Z-value.cpp [20]) (Other/count_spanning_tree.cpp) (Other/CYK.cpp
-[21]) (Other/DigitCounting.cpp) (Other/Dp1D1D.cpp [22])
-(Other/DP-optimization.txt) (Other/Marriage.cpp)
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[18]) (String/AC.cpp) (String/KMP.h) (String/PalindromicTree.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[19]) (String/SAM.cpp) (String/smallest_rotation.cpp) (String/suffix_array.cpp)
+(String/Z-value.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[20]) (Other/count_spanning_tree.cpp) (Other/CYK.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[21]) (Other/DigitCounting.cpp) (Other/Dp1D1D.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[22]) (Other/DP-optimization.txt) (Other/Marriage.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-(Other/Mo_algorithm.cpp) (Other/Parser.cpp) (Other/python.py [24])) [25
 
-]
-(codebook.aux)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[23] (Other/Mo_algorithm.cpp) (Other/Parser.cpp) (Other/python.py
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[24]))
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[25
+
+] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20639 strings out of 427272
- 408201 string characters out of 3141671
- 1297964 words of memory out of 3000000
- 24787 multiletter control sequences out of 15000+200000
- 533893 words of font info for 63 fonts, out of 3000000 for 9000
+ 11488 strings out of 414218
+ 232330 string characters out of 2898281
+ 1325355 words of memory out of 3000000
+ 28677 multiletter control sequences out of 15000+200000
+ 533885 words of font info for 62 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 45i,12n,67p,343b,1611s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,70p,250b,1627s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on codebook.pdf (25 pages).
