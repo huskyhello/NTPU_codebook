@@ -1,3 +1,2 @@
 測試 assert() 功能是否正常
-vniargh aodg akldghroad 
-
+jojo
