@@ -2,75 +2,53 @@
 \contentsline {subsection}{\numberline {1.1}compile}{1}%
 \contentsline {subsection}{\numberline {1.2}default code}{1}%
 \contentsline {subsection}{\numberline {1.3}debug list}{1}%
-\contentsline {section}{\numberline {2}Dark Code}{2}%
-\contentsline {subsection}{\numberline {2.1}IO optimization}{2}%
+\contentsline {section}{\numberline {2}Dark Code}{1}%
+\contentsline {subsection}{\numberline {2.1}IO optimization}{1}%
 \contentsline {section}{\numberline {3}Flow}{2}%
 \contentsline {subsection}{\numberline {3.1}Dinic}{2}%
-\contentsline {subsection}{\numberline {3.2}Gomory Hu}{3}%
-\contentsline {subsection}{\numberline {3.3}min cost flow}{3}%
-\contentsline {section}{\numberline {4}Geometry}{3}%
-\contentsline {subsection}{\numberline {4.1}2D Point Template}{3}%
-\contentsline {subsection}{\numberline {4.2}外心 Circumcentre}{4}%
-\contentsline {subsection}{\numberline {4.3}Convex Hull}{4}%
-\contentsline {subsection}{\numberline {4.4}半平面交}{4}%
-\contentsline {subsection}{\numberline {4.5}圓交}{4}%
-\contentsline {subsection}{\numberline {4.6}線段交}{4}%
-\contentsline {subsection}{\numberline {4.7}Smallest Covering Circle}{4}%
-\contentsline {section}{\numberline {5}Mathmatics}{5}%
-\contentsline {subsection}{\numberline {5.1}ax+by=gcd(a,b)}{5}%
-\contentsline {subsection}{\numberline {5.2}BigInt}{5}%
-\contentsline {subsection}{\numberline {5.3}FFT}{6}%
-\contentsline {subsection}{\numberline {5.4}FWHT}{6}%
-\contentsline {subsection}{\numberline {5.5}GaussElimination}{6}%
-\contentsline {subsection}{\numberline {5.6}Inverse}{6}%
-\contentsline {subsection}{\numberline {5.7}LinearPrime}{6}%
-\contentsline {subsection}{\numberline {5.8}Miller Rabin}{7}%
-\contentsline {subsection}{\numberline {5.9}Pollard's rho}{7}%
-\contentsline {subsection}{\numberline {5.10}數論基本工具}{7}%
-\contentsline {subsection}{\numberline {5.11}Mobius}{7}%
-\contentsline {subsection}{\numberline {5.12}Simplex}{7}%
-\contentsline {subsection}{\numberline {5.13}SG}{8}%
-\contentsline {subsection}{\numberline {5.14}Theorem}{9}%
-\contentsline {section}{\numberline {6}Graph}{9}%
-\contentsline {subsection}{\numberline {6.1}BCC}{9}%
-\contentsline {subsection}{\numberline {6.2}Dijkstra}{9}%
-\contentsline {subsection}{\numberline {6.3}Theorm - Domination}{10}%
-\contentsline {subsection}{\numberline {6.4}Strongly Connected Component(SCC)}{10}%
-\contentsline {subsection}{\numberline {6.5}DominatorTree}{10}%
-\contentsline {subsection}{\numberline {6.6}Manhattan MST}{11}%
-\contentsline {subsection}{\numberline {6.7}Hungarian}{12}%
-\contentsline {subsection}{\numberline {6.8}KM}{12}%
-\contentsline {subsection}{\numberline {6.9}Theorm - Matching}{12}%
-\contentsline {subsection}{\numberline {6.10}Maximum General Matching}{12}%
-\contentsline {subsection}{\numberline {6.11}Minimum General Weighted Matching}{13}%
-\contentsline {subsection}{\numberline {6.12}Maximum Clique}{13}%
-\contentsline {subsection}{\numberline {6.13}Steiner Tree}{14}%
-\contentsline {subsection}{\numberline {6.14}最小平均環}{14}%
-\contentsline {subsection}{\numberline {6.15}偵測負環}{15}%
-\contentsline {subsection}{\numberline {6.16}Tarjan}{15}%
-\contentsline {section}{\numberline {7}Data Structure}{15}%
-\contentsline {subsection}{\numberline {7.1}2D Range Tree}{15}%
-\contentsline {subsection}{\numberline {7.2}ext heap}{16}%
-\contentsline {subsection}{\numberline {7.3}KD tree}{16}%
-\contentsline {subsection}{\numberline {7.4}Link Cut tree}{17}%
-\contentsline {subsection}{\numberline {7.5}Sparse Table}{18}%
-\contentsline {subsection}{\numberline {7.6}Treap Lin}{18}%
-\contentsline {section}{\numberline {8}String}{19}%
-\contentsline {subsection}{\numberline {8.1}AC 自動機}{19}%
-\contentsline {subsection}{\numberline {8.2}KMP}{19}%
-\contentsline {subsection}{\numberline {8.3}迴文字動機}{19}%
-\contentsline {subsection}{\numberline {8.4}Suffix Automaton}{20}%
-\contentsline {subsection}{\numberline {8.5}smallest rotation}{20}%
-\contentsline {subsection}{\numberline {8.6}Suffix Array}{20}%
-\contentsline {subsection}{\numberline {8.7}Z-value}{20}%
-\contentsline {section}{\numberline {9}Others}{21}%
-\contentsline {subsection}{\numberline {9.1}矩陣數定理}{21}%
-\contentsline {subsection}{\numberline {9.2}CYK}{21}%
-\contentsline {subsection}{\numberline {9.3}數位統計}{22}%
-\contentsline {subsection}{\numberline {9.4}1D/1D dp 優化}{22}%
-\contentsline {subsection}{\numberline {9.5}Theorm - DP optimization}{23}%
-\contentsline {subsection}{\numberline {9.6}Stable Marriage}{23}%
-\contentsline {subsection}{\numberline {9.7}Mo's algorithm}{24}%
-\contentsline {subsection}{\numberline {9.8}parser}{24}%
-\contentsline {subsection}{\numberline {9.9}python 小抄}{24}%
-\contentsline {section}{\numberline {10}Persistence}{25}%
+\contentsline {subsection}{\numberline {3.2}min cost flow}{2}%
+\contentsline {section}{\numberline {4}Mathmatics}{3}%
+\contentsline {subsection}{\numberline {4.1}ax+by=gcd(a,b)}{3}%
+\contentsline {subsection}{\numberline {4.2}BigInt}{3}%
+\contentsline {subsection}{\numberline {4.3}FFT}{4}%
+\contentsline {subsection}{\numberline {4.4}FWHT}{4}%
+\contentsline {subsection}{\numberline {4.5}GaussElimination}{4}%
+\contentsline {subsection}{\numberline {4.6}Inverse}{5}%
+\contentsline {subsection}{\numberline {4.7}LinearPrime}{5}%
+\contentsline {subsection}{\numberline {4.8}Miller Rabin}{5}%
+\contentsline {subsection}{\numberline {4.9}Pollard's rho}{5}%
+\contentsline {subsection}{\numberline {4.10}數論基本工具}{5}%
+\contentsline {subsection}{\numberline {4.11}Mobius}{5}%
+\contentsline {subsection}{\numberline {4.12}Simplex}{6}%
+\contentsline {subsection}{\numberline {4.13}SG}{7}%
+\contentsline {subsection}{\numberline {4.14}Theorem}{7}%
+\contentsline {section}{\numberline {5}Graph}{7}%
+\contentsline {subsection}{\numberline {5.1}BCC}{7}%
+\contentsline {subsection}{\numberline {5.2}Dijkstra}{8}%
+\contentsline {subsection}{\numberline {5.3}Strongly Connected Component(SCC)}{8}%
+\contentsline {subsection}{\numberline {5.4}Hungarian}{8}%
+\contentsline {subsection}{\numberline {5.5}KM}{9}%
+\contentsline {subsection}{\numberline {5.6}最小平均環}{9}%
+\contentsline {subsection}{\numberline {5.7}偵測負環}{9}%
+\contentsline {subsection}{\numberline {5.8}Tarjan}{10}%
+\contentsline {section}{\numberline {6}Data Structure}{10}%
+\contentsline {subsection}{\numberline {6.1}2D Range Tree}{10}%
+\contentsline {subsection}{\numberline {6.2}Sparse Table}{11}%
+\contentsline {section}{\numberline {7}String}{11}%
+\contentsline {subsection}{\numberline {7.1}AC 自動機}{11}%
+\contentsline {subsection}{\numberline {7.2}KMP}{11}%
+\contentsline {subsection}{\numberline {7.3}迴文字動機}{12}%
+\contentsline {subsection}{\numberline {7.4}Suffix Automaton}{12}%
+\contentsline {subsection}{\numberline {7.5}smallest rotation}{12}%
+\contentsline {subsection}{\numberline {7.6}Suffix Array}{13}%
+\contentsline {subsection}{\numberline {7.7}Z-value}{13}%
+\contentsline {section}{\numberline {8}Others}{13}%
+\contentsline {subsection}{\numberline {8.1}矩陣數定理}{13}%
+\contentsline {subsection}{\numberline {8.2}CYK}{14}%
+\contentsline {subsection}{\numberline {8.3}數位統計}{14}%
+\contentsline {subsection}{\numberline {8.4}1D/1D dp 優化}{15}%
+\contentsline {subsection}{\numberline {8.5}Theorm - DP optimization}{15}%
+\contentsline {subsection}{\numberline {8.6}Stable Marriage}{15}%
+\contentsline {subsection}{\numberline {8.7}parser}{16}%
+\contentsline {subsection}{\numberline {8.8}python 小抄}{17}%
+\contentsline {section}{\numberline {9}Persistence}{17}%
