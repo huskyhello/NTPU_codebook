@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.22)  2 OCT 2021 11:42
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.22)  2 OCT 2021 12:04
 entering extended mode
 **./codebook.tex
 (codebook.tex
@@ -577,12 +577,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6])
 (Math/Sprague-Grundy.cpp) (Math/theorem.cpp) (Graph/BCC_edge.cpp [7])
-(Graph/Dijkstra.cpp) (Graph/Kosaraju_SCC.cpp) (Graph/Matching/Hungarian.cpp
-[8]) (Graph/Matching/Kuhn_Munkres.cpp) (Graph/Min_mean_cycle.cpp)
+(Graph/Prim.cpp) (Graph/Kruskal.cpp) (Graph/Dijkstra.cpp)
+(Graph/Kosaraju_SCC.cpp [8]) (Graph/Matching/Hungarian.cpp)
+(Graph/Matching/Kuhn_Munkres.cpp [9]) (Graph/Min_mean_cycle.cpp)
 Underfull \vbox (badness 1009) has occurred while \output is active []
 
- [9]
-(Graph/negative_cycle_validation.cpp) (Graph/Tarjan.cpp)
+
+(Graph/negative_cycle_validation.cpp) (Graph/Tarjan.cpp [10])
 (Graph/Topological_Sort.cpp
 Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
@@ -626,7 +627,6 @@ Missing character: There is no � in font Consolas Italic/OT:script=latn;langua
 e=dflt;!
 Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
 e=dflt;!
- [10]
 Invalid UTF-8 byte or sequence at line 25 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 25 replaced by U+FFFD.
 Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
@@ -648,7 +648,7 @@ e=dflt;!
 Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
 Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
 e=dflt;!
-) (DataStructure/2D_RangeTree.cpp)
+) (DataStructure/2D_RangeTree.cpp [11])
 (DataStructure/SparseTable.h) (DataStructure/Segment_tree.cpp
 Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
@@ -716,7 +716,6 @@ Missing character: There is no � in font Consolas Italic/OT:script=latn;langua
 e=dflt;!
 Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
 e=dflt;!
- [11]
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
@@ -757,32 +756,30 @@ Missing character: There is no � in font Consolas/OT:script=latn;language=dflt
 !
 Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
 !
-) (String/AC.cpp) (String/KMP.h)
-(String/PalindromicTree.cpp [12]) (String/SAM.cpp)
-(String/smallest_rotation.cpp) (String/suffix_array.cpp [13])
-(String/Z-value.cpp) (Other/count_spanning_tree.cpp) [14] (Other/CYK.cpp
+) (String/AC.cpp [12]) (String/KMP.h)
+(String/PalindromicTree.cpp) (String/SAM.cpp [13])
+(String/smallest_rotation.cpp) (String/suffix_array.cpp) (String/Z-value.cpp)
+(Other/count_spanning_tree.cpp [14]) (Other/CYK.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15])
+(Other/DigitCounting.cpp) (Other/Dp1D1D.cpp) (Other/DP-optimization.txt)
+(Other/Marriage.cpp [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(Other/DigitCounting.cpp) (Other/Dp1D1D.cpp [15]) (Other/DP-optimization.txt)
-(Other/Marriage.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16])
-(Other/Parser.cpp) (Other/python.py [17])) [18
-
-] (codebook.aux)
+(Other/Parser.cpp [17]) (Other/python.py)) [18] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11045 strings out of 414071
- 225670 string characters out of 2901731
+ 11069 strings out of 414071
+ 225902 string characters out of 2901731
  1219465 words of memory out of 3000000
- 28430 multiletter control sequences out of 15000+200000
+ 28448 multiletter control sequences out of 15000+200000
  533885 words of font info for 62 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,12n,70p,250b,1627s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,70p,250b,1658s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on codebook.pdf (18 pages).
