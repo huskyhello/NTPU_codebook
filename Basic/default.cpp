@@ -1,12 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef long long ll;
+#define int long long
 typedef pair<int,int> pii;
+
 #ifdef ONLINE_JUDGE
 #define cerr if(false) cerr
 #endif
 
-int main(){
+int32_t main(){
 #ifndef ONLINE_JUDGE
 	//freopen("input.txt","r",stdin);
 	freopen("output.txt","w",stdout);
