@@ -1,12 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2021.3.3)  2 OCT 2021 02:14
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.22)  2 OCT 2021 11:42
 entering extended mode
 **./codebook.tex
 (codebook.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+L3 programming layer <2020-06-18> (D:\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+(D:\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count163
@@ -20,8 +19,7 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) ("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
-y"
+) (D:\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks15
 \thm@bodyfont=\toks16
@@ -33,12 +31,10 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip51
 \dth@everypar=\toks20
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
-ty"
+(D:\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
-sty"
+(D:\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks21
 \symAMSa=\mathgroup4
@@ -47,32 +43,29 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
-sty"
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
-xparse.sty"
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
-"
-Package: expl3 2020-04-06 L3 programming layer (loader) 
+(D:\MiKTeX\tex/latex/fontspec\fontspec.sty
+(D:\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(D:\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-xdvipdfmx.def"
-File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+(D:\MiKTeX\tex/latex/l3backend\l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-06-29 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count171
 \l__pdf_internal_box=\box45
 \g__pdf_backend_object_int=\count172
 \g__pdf_backend_annotation_int=\count173
 ))
-Package: xparse 2020-03-06 L3 Experimental document command parser
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(D:\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex
 \l__xparse_current_arg_int=\count174
 \g__xparse_grabber_int=\count175
 \l__xparse_m_args_int=\count176
 \l__xparse_v_nesting_int=\count177
-)
+))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-
-xetex.sty"
+(D:\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count178
@@ -90,30 +83,25 @@ X
 \l__fontspec_tmpb_dim=\dimen136
 \l__fontspec_tmpc_dim=\dimen137
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+(D:\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
-cfg")))
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
-"
+(D:\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(D:\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+(D:\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex
-.def"
+(D:\MiKTeX\tex/latex/graphics-def\xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+(D:\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+(D:\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -127,13 +115,11 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\x11nam.def"
+(D:\MiKTeX\tex/latex/xcolor\x11nam.def
 File: x11nam.def 2016/05/11 v2.12 Predefined colors according to Unix/X11 (UK)
 ))
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-sty"
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+(D:\MiKTeX\tex/latex/listings\listings.sty
+(D:\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks22
 )
@@ -150,23 +136,20 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \lst@lineno=\count194
 \lst@maxwidth=\dimen141
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
-ty"
+(D:\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count195
 \lst@skipnumbers=\count196
 \lst@framebox=\box47
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-cfg"
+(D:\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
-sty"
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
+(D:\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
 \f@nch@headwidth=\skip52
 \f@nch@O@elh=\skip53
 \f@nch@O@erh=\skip54
@@ -177,19 +160,16 @@ rs
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
+(D:\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
+(D:\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(D:\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+(D:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
@@ -197,13 +177,11 @@ Package graphics Info: Driver file: xetex.def on input line 105.
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
-y"
+(D:\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks24
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
-sty"
+(D:\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box48
 \beforetitleunit=\skip61
@@ -215,30 +193,24 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen147
 \titlewidthfirst=\dimen148
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
+(D:\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip63
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+(D:\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+(D:\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks26
 \ex@=\dimen149
 ))
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+(D:\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen150
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+(D:\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count197
@@ -279,16 +251,14 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.sty"
-Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
+(D:\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
+Package: xeCJK 2020/08/23 v3.8.5 Typesetting CJK scripts with XeLaTeX
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2
-e\l3keys2e.sty"
-Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+(D:\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xtempla
-te\xtemplate.sty"
-Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+(D:\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
+Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen158
 \l__xtemplate_tmp_int=\count275
 \l__xtemplate_tmp_muskip=\muskip17
@@ -299,8 +269,8 @@ Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
 \l__xeCJK_tmp_dim=\dimen159
 \l__xeCJK_tmp_skip=\skip67
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ctex\ctexhook.sty"
-Package: ctexhook 2020/10/19 v2.5.5 Document and package hooks (CTEX)
+(D:\MiKTeX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2020/08/23 v2.5.4 Document and package hooks (CTEX)
 )
 \g__xeCJK_space_factor_int=\count277
 \l__xeCJK_begin_int=\count278
@@ -330,7 +300,7 @@ Package: ctexhook 2020/10/19 v2.5.5 Document and package hooks (CTEX)
 \l__xeCJK_widow_penalty_int=\count282
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2341.
+(xtemplate)             argument(s) on line 2335.
 
 \l__xeCJK_fixed_punct_width_dim=\dimen168
 \l__xeCJK_mixed_punct_width_dim=\dimen169
@@ -357,17 +327,15 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_verb_case_int=\count286
 \l__xeCJK_verb_exspace_skip=\skip72
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK-list
-ings.sty"
-Package: xeCJK-listings 2020/10/19 v3.8.6 xeCJK patch file for listings
+(D:\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.sty
+Package: xeCJK-listings 2020/08/23 v3.8.5 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count287
 \l__xeCJK_listings_flag_int=\count288
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.cfg"
-File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
+(D:\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
+File: xeCJK.cfg 2020/08/23 v3.8.5 Configuration file for xeCJK package
 ))
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier.sty
-"
+(D:\MiKTeX\tex/latex/psnfss\courier.sty
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
 
@@ -460,16 +428,13 @@ Package fontspec Info: Font family 'NotoSansCJKTC(0)' created for font 'Noto
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
-sty"
+(D:\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
-sty"
+(D:\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
-ty"
+(D:\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 \symCJKmath=\mathgroup255
@@ -488,7 +453,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
 5.
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+(D:\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 75.
@@ -558,21 +523,21 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/Consolas(1)/b/n on input line 75.
 \c@lstlisting=\count289
-
-(codebook.toc
+ (codebook.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+(D:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+ (D:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
 \openout3 = `codebook.toc'.
 
- (content.tex
+
+(content.tex
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                
@@ -581,152 +546,243 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (Basic/compile.txt) (Basic/default.cpp) (Basic/bug_list.txt)
 (DarkCode/IO_optimization.cpp
 
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+Make it at least 3.60004pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
 [1
 
-]) (Flow/dinic.cpp) (Flow/Min_Cost_Max_Flow.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[2]) (Math/ax+by=gcd.cpp) (Math/Bigint.cpp
+]) (Flow/dinic.cpp) (Flow/Min_Cost_Max_Flow.cpp [2]) (Math/ax+by=gcd.cpp)
+(Math/Bigint.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[3])
+ [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+)
 (Math/fft.cpp
 
 LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/m/it' undefined
 (Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 11.
 
-) (Math/FWHT.cpp) (Math/GaussElimination.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[4]) (Math/Inverse.cpp) (Math/LinearPrime.cpp) (Math/Miller-Rabin.cpp)
-(Math/pollardRho.cpp)
+) (Math/FWHT.cpp) (Math/GaussElimination.cpp [4]) (Math/Inverse.cpp)
+(Math/LinearPrime.cpp) (Math/Miller-Rabin.cpp) (Math/pollardRho.cpp)
 
 LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/b/n' undefined
 (Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 43.
 
-(Math/number_tool.cpp) (Math/Mobius.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[5]) (Math/Simplex.cpp
+(Math/number_tool.cpp) [5] (Math/Mobius.cpp) (Math/Simplex.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[6]) (Math/Sprague-Grundy.cpp) (Math/theorem.cpp) (Graph/BCC_edge.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[7]) (Graph/Dijkstra.cpp) (Graph/Kosaraju_SCC.cpp)
-(Graph/Matching/Hungarian.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
+ [6])
+(Math/Sprague-Grundy.cpp) (Math/theorem.cpp) (Graph/BCC_edge.cpp [7])
+(Graph/Dijkstra.cpp) (Graph/Kosaraju_SCC.cpp) (Graph/Matching/Hungarian.cpp
 [8]) (Graph/Matching/Kuhn_Munkres.cpp) (Graph/Min_mean_cycle.cpp)
-(Graph/negative_cycle_validation.cpp
+Underfull \vbox (badness 1009) has occurred while \output is active []
 
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[9]) (Graph/Tarjan.cpp) (DataStructure/2D_RangeTree.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[10]) (DataStructure/SparseTable.h)
-Underfull \vbox (badness 2547) has occurred while \output is active []
-
-
-(String/AC.cpp) (String/KMP.h
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[11]) (String/PalindromicTree.cpp) (String/SAM.cpp)
-(String/smallest_rotation.cpp)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[12] (String/suffix_array.cpp) (String/Z-value.cpp)
-(Other/count_spanning_tree.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[13]) (Other/CYK.cpp) (Other/DigitCounting.cpp)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[14] (Other/Dp1D1D.cpp) (Other/DP-optimization.txt) (Other/Marriage.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[15]) (Other/Parser.cpp
+ [9]
+(Graph/negative_cycle_validation.cpp) (Graph/Tarjan.cpp)
+(Graph/Topological_Sort.cpp
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 20 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 20 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+ [10]
+Invalid UTF-8 byte or sequence at line 25 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 25 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 30 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 35 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 37 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 37 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+) (DataStructure/2D_RangeTree.cpp)
+(DataStructure/SparseTable.h) (DataStructure/Segment_tree.cpp
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+ [11]
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+Missing character: There is no � in font Consolas Italic/OT:script=latn;languag
+e=dflt;!
+)
+(DataStructure/Lazy_tag.cpp
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Missing character: There is no ק in font Consolas/OT:script=latn;language=dflt;
+!
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
+!
+) (String/AC.cpp) (String/KMP.h)
+(String/PalindromicTree.cpp [12]) (String/SAM.cpp)
+(String/smallest_rotation.cpp) (String/suffix_array.cpp [13])
+(String/Z-value.cpp) (Other/count_spanning_tree.cpp) [14] (Other/CYK.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+)
+(Other/DigitCounting.cpp) (Other/Dp1D1D.cpp [15]) (Other/DP-optimization.txt)
+(Other/Marriage.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [16])
+(Other/Parser.cpp) (Other/python.py [17])) [18
 
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[16]) (Other/python.py))
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[17] (codebook.aux)
+] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 10999 strings out of 414218
- 226324 string characters out of 2898281
- 1228355 words of memory out of 3000000
- 28252 multiletter control sequences out of 15000+200000
+ 11045 strings out of 414071
+ 225670 string characters out of 2901731
+ 1219465 words of memory out of 3000000
+ 28430 multiletter control sequences out of 15000+200000
  533885 words of font info for 62 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  44i,12n,70p,250b,1627s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on codebook.pdf (17 pages).
+Output written on codebook.pdf (18 pages).
