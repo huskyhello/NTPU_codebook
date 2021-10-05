@@ -4,8 +4,7 @@ struct Point {
 
 	bool operator < (const Point &b)const{
 		//return tie(x,y) < tie(b.x,b.y);
-		//return atan2(y,x) < atan2(b.y,b.x);
-		assert(0 && "choose compare");
+		return atan2(y,x) < atan2(b.y,b.x);
 	}
 	Point operator + (const Point &b)const{
 		return (Point){x+b.x,y+b.y};

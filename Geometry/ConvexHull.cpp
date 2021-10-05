@@ -1,6 +1,6 @@
 #include "2Dpoint.cpp"
 
-// retunr H, 第一個點會在 H 出現兩次
+// return H, The first will occured TWICE in vector H!
 void ConvexHull(vector<Point> &P, vector<Point> &H){
     int n = P.size(), m=0;
     sort(P.begin(),P.end());

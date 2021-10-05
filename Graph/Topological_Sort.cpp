@@ -1,42 +1,40 @@
-bool adj[9][9];     // adjacency matrix
-int visit[9];       // 記錄DFS遍歷過的點
-int order[9], n;    // 儲存一個合理的排列順序
+#define N 87
+
+bool adj[N][N];     // adjacency matrix
+int visit[N];       // record visited coordinations in DFS
+int order[N], n;    // save the order
  
-bool cycle;         // 記錄DFS的過程中是否偵測到環
+bool cycle;         // detect the cycle
  
 void DFS(int s)
 {
-    // back edge，有環。
+    // back edge occured, detected the cycle
     if (visit[s] == 1) {cycle = true; return;}
-    // forward edge、cross edge。
+    // forward edge and cross edge。
     if (visit[s] == 2) return;
  
     visit[s] = 1;
-    for (int t=0; t<9; ++t)
-        if (adj[s][t])
-            DFS(t);
+    for (int t=0; t<N; ++t){
+        if (adj[s][t]) DFS(t);
+    }
     visit[s] = 2;
- 
-    order[n--] = s;     // 記錄合理的排列順序
+    order[n--] = s;     // record the order
 }
  
 void topological_ordering()
 {
-    // 初始化
-    for (int i=0; i<9; i++) visit[i] = 0;
+    memset(visit, 0, sizeof(visit));
     cycle = false;
-    n = 9-1;
- 
-    // 進行DFS
+    n = N - 1;
+    
     for (int s=0; s<9; ++s)
         if (!v[s])
             DFS(s);
  
-    // 輸出結果
-    if (cycle)
-        cout << "圖上有環";
-    else
-        // 印出一個合理的排列順序
-        for (int i=0; i<9; ++i)
+    if (cycle) cout << "The graph has the cycle!";
+    else{
+        for (int i=0; i<N; ++i)
             cout << order[i];
+        }
+	}
 }
