@@ -1,109 +1,119 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.10.5)  5 OCT 2021 19:31
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2021.3.3)  27 NOV 2021 11:34
 entering extended mode
 **./codebook.tex
 (codebook.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27>
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count178
-\c@section=\count179
-\c@subsection=\count180
-\c@subsubsection=\count181
-\c@paragraph=\count182
-\c@subparagraph=\count183
-\c@figure=\count184
-\c@table=\count185
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-)
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+\bibindent=\dimen134
+) ("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
+y"
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks16
-\thm@bodyfont=\toks17
-\thm@headfont=\toks18
-\thm@notefont=\toks19
-\thm@headpunct=\toks20
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
 \thm@preskip=\skip49
 \thm@postskip=\skip50
 \thm@headsep=\skip51
-\dth@everypar=\toks21
+\dth@everypar=\toks20
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
+\@emptytoks=\toks21
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.
-sty (C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-08-27 L3 programming layer (loader) 
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
+sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
+xparse.sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+"
+Package: expl3 2020-04-06 L3 programming layer (loader) 
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex
-.def
-File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
- ()
-\c__kernel_sys_dvipdfmx_version_int=\count186
-\l__color_backend_stack_int=\count187
-\g__color_backend_stack_int=\count188
-\g__graphics_track_int=\count189
-\l__pdf_internal_box=\box50
-\g__pdf_backend_object_int=\count190
-\g__pdf_backend_annotation_int=\count191
-\g__pdf_backend_link_int=\count192
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count171
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count172
+\g__pdf_backend_annotation_int=\count173
 ))
-Package: xparse 2021-08-27 L3 Experimental document command parser
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count174
+\g__xparse_grabber_int=\count175
+\l__xparse_m_args_int=\count176
+\l__xparse_v_nesting_int=\count177
 )
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.s
-ty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-
+xetex.sty"
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count193
-\l__fontspec_language_int=\count194
-\l__fontspec_strnum_int=\count195
-\l__fontspec_tmp_int=\count196
-\l__fontspec_tmpa_int=\count197
-\l__fontspec_tmpb_int=\count198
-\l__fontspec_tmpc_int=\count199
-\l__fontspec_em_int=\count266
-\l__fontspec_emdef_int=\count267
-\l__fontspec_strong_int=\count268
-\l__fontspec_strongdef_int=\count269
-\l__fontspec_tmpa_dim=\dimen139
-\l__fontspec_tmpb_dim=\dimen140
-\l__fontspec_tmpc_dim=\dimen141
- (C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+\l__fontspec_script_int=\count178
+\l__fontspec_language_int=\count179
+\l__fontspec_strnum_int=\count180
+\l__fontspec_tmp_int=\count181
+\l__fontspec_tmpa_int=\count182
+\l__fontspec_tmpb_int=\count183
+\l__fontspec_tmpc_int=\count184
+\l__fontspec_em_int=\count185
+\l__fontspec_emdef_int=\count186
+\l__fontspec_strong_int=\count187
+\l__fontspec_strongdef_int=\count188
+\l__fontspec_tmpa_dim=\dimen135
+\l__fontspec_tmpb_dim=\dimen136
+\l__fontspec_tmpc_dim=\dimen137
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
+cfg")))
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: xetex.def on input line 149.
+Package color Info: Driver file: xetex.def on input line 147.
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
-File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex
+.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -117,39 +127,44 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\x11nam.def
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\x11nam.def"
 File: x11nam.def 2016/05/11 v2.12 Predefined colors according to Unix/X11 (UK)
 ))
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks23
+\KV@toks@=\toks22
 )
-\lst@mode=\count270
-\lst@gtempboxa=\box51
-\lst@token=\toks24
-\lst@length=\count271
-\lst@currlwidth=\dimen142
-\lst@column=\count272
-\lst@pos=\count273
-\lst@lostspace=\dimen143
-\lst@width=\dimen144
-\lst@newlines=\count274
-\lst@lineno=\count275
-\lst@maxwidth=\dimen145
+\lst@mode=\count189
+\lst@gtempboxa=\box46
+\lst@token=\toks23
+\lst@length=\count190
+\lst@currlwidth=\dimen138
+\lst@column=\count191
+\lst@pos=\count192
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count193
+\lst@lineno=\count194
+\lst@maxwidth=\dimen141
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count276
-\lst@skipnumbers=\count277
-\lst@framebox=\box52
+\c@lstnumber=\count195
+\lst@skipnumbers=\count196
+\lst@framebox=\box47
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip52
@@ -162,121 +177,134 @@ rs
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 107.
+Package graphics Info: Driver file: xetex.def on input line 105.
 )
-\Gin@req@height=\dimen146
-\Gin@req@width=\dimen147
-) (C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
+y"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks25
+\@enLab=\toks24
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box53
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box48
 \beforetitleunit=\skip61
 \aftertitleunit=\skip62
-\ttl@plus=\dimen148
-\ttl@minus=\dimen149
-\ttl@toksa=\toks26
-\titlewidth=\dimen150
-\titlewidthlast=\dimen151
-\titlewidthfirst=\dimen152
+\ttl@plus=\dimen144
+\ttl@minus=\dimen145
+\ttl@toksa=\toks25
+\titlewidth=\dimen146
+\titlewidthlast=\dimen147
+\titlewidthfirst=\dimen148
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/04/20 v2.17j AMS math features
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip63
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks27
-\ex@=\dimen153
+\@emptytoks=\toks26
+\ex@=\dimen149
 ))
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen154
+\pmbraise@=\dimen150
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count278
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count279
-\leftroot@=\count280
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count281
-\DOTSCASE@=\count282
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box54
-\strutbox@=\box55
-\big@size=\dimen155
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count283
-\c@MaxMatrixCols=\count284
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
 \dotsspace@=\muskip16
-\c@parentequation=\count285
-\dspbrk@lvl=\count286
-\tag@help=\toks28
-\row@=\count287
-\column@=\count288
-\maxfields@=\count289
-\andhelp@=\toks29
-\eqnshift@=\dimen156
-\alignsep@=\dimen157
-\tagshift@=\dimen158
-\tagwidth@=\dimen159
-\totwidth@=\dimen160
-\lineht@=\dimen161
-\@envbody=\toks30
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks27
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks28
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks29
 \multlinegap=\skip64
 \multlinetaggap=\skip65
-\mathdisplay@stack=\toks31
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
-Package: xeCJK 2021/06/20 v3.8.7 Typesetting CJK scripts with XeLaTeX
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.sty"
+Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
-Package: ctexhook 2021/06/20 v2.5.7 Document and package hooks (CTEX)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2
+e\l3keys2e.sty"
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3key
-s2e.sty
-Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
-)
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xtem
-plate.sty
-Package: xtemplate 2021-08-27 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen162
-\l__xtemplate_tmp_int=\count290
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xtempla
+te\xtemplate.sty"
+Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen158
+\l__xtemplate_tmp_int=\count275
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip66
 )
-\l__xeCJK_tmp_int=\count291
-\l__xeCJK_tmp_box=\box56
-\l__xeCJK_tmp_dim=\dimen163
+\l__xeCJK_tmp_int=\count276
+\l__xeCJK_tmp_box=\box51
+\l__xeCJK_tmp_dim=\dimen159
 \l__xeCJK_tmp_skip=\skip67
-\g__xeCJK_space_factor_int=\count292
-\l__xeCJK_begin_int=\count293
-\l__xeCJK_end_int=\count294
+
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ctex\ctexhook.sty"
+Package: ctexhook 2020/10/19 v2.5.5 Document and package hooks (CTEX)
+)
+\g__xeCJK_space_factor_int=\count277
+\l__xeCJK_begin_int=\count278
+\l__xeCJK_end_int=\count279
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -286,61 +314,60 @@ Package: xtemplate 2021-08-27 L3 Experimental prototype document functions
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
 \l__xeCJK_last_skip=\skip68
-\g__xeCJK_node_int=\count295
-\c__xeCJK_CJK_node_dim=\dimen164
-\c__xeCJK_CJK-space_node_dim=\dimen165
-\c__xeCJK_default_node_dim=\dimen166
-\c__xeCJK_default-space_node_dim=\dimen167
-\c__xeCJK_CJK-widow_node_dim=\dimen168
-\c__xeCJK_normalspace_node_dim=\dimen169
+\g__xeCJK_node_int=\count280
+\c__xeCJK_CJK_node_dim=\dimen160
+\c__xeCJK_CJK-space_node_dim=\dimen161
+\c__xeCJK_default_node_dim=\dimen162
+\c__xeCJK_default-space_node_dim=\dimen163
+\c__xeCJK_CJK-widow_node_dim=\dimen164
+\c__xeCJK_normalspace_node_dim=\dimen165
 \l__xeCJK_ccglue_skip=\skip69
 \l__xeCJK_ecglue_skip=\skip70
 \l__xeCJK_punct_kern_skip=\skip71
-\l__xeCJK_last_penalty_int=\count296
-\l__xeCJK_last_bound_dim=\dimen170
-\l__xeCJK_last_kern_dim=\dimen171
-\l__xeCJK_widow_penalty_int=\count297
+\l__xeCJK_last_penalty_int=\count281
+\l__xeCJK_last_bound_dim=\dimen166
+\l__xeCJK_last_kern_dim=\dimen167
+\l__xeCJK_widow_penalty_int=\count282
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2335.
+(xtemplate)             argument(s) on line 2341.
 
-\l__xeCJK_fixed_punct_width_dim=\dimen172
-\l__xeCJK_mixed_punct_width_dim=\dimen173
-\l__xeCJK_middle_punct_width_dim=\dimen174
-\l__xeCJK_fixed_margin_width_dim=\dimen175
-\l__xeCJK_mixed_margin_width_dim=\dimen176
-\l__xeCJK_middle_margin_width_dim=\dimen177
-\l__xeCJK_bound_punct_width_dim=\dimen178
-\l__xeCJK_bound_margin_width_dim=\dimen179
-\l__xeCJK_margin_minimum_dim=\dimen180
-\l__xeCJK_kerning_total_width_dim=\dimen181
-\l__xeCJK_same_align_margin_dim=\dimen182
-\l__xeCJK_different_align_margin_dim=\dimen183
-\l__xeCJK_kerning_margin_width_dim=\dimen184
-\l__xeCJK_kerning_margin_minimum_dim=\dimen185
-\l__xeCJK_bound_dim=\dimen186
-\l__xeCJK_reverse_bound_dim=\dimen187
-\l__xeCJK_margin_dim=\dimen188
-\l__xeCJK_minimum_bound_dim=\dimen189
-\l__xeCJK_kerning_margin_dim=\dimen190
-\g__xeCJK_family_int=\count298
-\l__xeCJK_fam_int=\count299
-\g__xeCJK_fam_allocation_int=\count300
-\l__xeCJK_verb_case_int=\count301
+\l__xeCJK_fixed_punct_width_dim=\dimen168
+\l__xeCJK_mixed_punct_width_dim=\dimen169
+\l__xeCJK_middle_punct_width_dim=\dimen170
+\l__xeCJK_fixed_margin_width_dim=\dimen171
+\l__xeCJK_mixed_margin_width_dim=\dimen172
+\l__xeCJK_middle_margin_width_dim=\dimen173
+\l__xeCJK_bound_punct_width_dim=\dimen174
+\l__xeCJK_bound_margin_width_dim=\dimen175
+\l__xeCJK_margin_minimum_dim=\dimen176
+\l__xeCJK_kerning_total_width_dim=\dimen177
+\l__xeCJK_same_align_margin_dim=\dimen178
+\l__xeCJK_different_align_margin_dim=\dimen179
+\l__xeCJK_kerning_margin_width_dim=\dimen180
+\l__xeCJK_kerning_margin_minimum_dim=\dimen181
+\l__xeCJK_bound_dim=\dimen182
+\l__xeCJK_reverse_bound_dim=\dimen183
+\l__xeCJK_margin_dim=\dimen184
+\l__xeCJK_minimum_bound_dim=\dimen185
+\l__xeCJK_kerning_margin_dim=\dimen186
+\g__xeCJK_family_int=\count283
+\l__xeCJK_fam_int=\count284
+\g__xeCJK_fam_allocation_int=\count285
+\l__xeCJK_verb_case_int=\count286
 \l__xeCJK_verb_exspace_skip=\skip72
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.st
-y
-Package: xeCJK-listings 2021/06/20 v3.8.7 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count302
-\l__xeCJK_listings_flag_int=\count303
-) (C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
-File: xeCJK.cfg 2021/06/20 v3.8.7 Configuration file for xeCJK package
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK-list
+ings.sty"
+Package: xeCJK-listings 2020/10/19 v3.8.6 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count287
+\l__xeCJK_listings_flag_int=\count288
+)
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK.cfg"
+File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
 ))
-
-Package ctex Warning: Package `CJKulem' can not be loaded with `xeCJK'.
-
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier.sty
+"
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
 
@@ -433,18 +460,20 @@ Package fontspec Info: Font family 'NotoSansCJKTC(0)' created for font 'Noto
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 \symCJKmath=\mathgroup255
-
-(codebook.aux)
+ (codebook.aux)
 \openout1 = `codebook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
@@ -459,7 +488,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
 5.
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 75.
@@ -528,24 +557,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/Consolas(1)/b/n on input line 75.
-\c@lstlisting=\count304
+\c@lstlisting=\count289
 
 (codebook.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-(C:\Users\nsl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+("C:\Users\terry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
 \openout3 = `codebook.toc'.
 
-
-(content.tex
+ (content.tex
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                
@@ -596,7 +623,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (Math/Mobius.cpp) (Math/Simplex.cpp
+[5]) (Math/Mobius.cpp) (Math/Sprague-Grundy.cpp) (Math/theorem.cpp
+
+LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/m/it' undefined
+(Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 20.
+
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -605,45 +637,40 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (Math/Sprague-Grundy.cpp) (Math/theorem.cpp
-
-LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/m/it' undefined
-(Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 20.
-
-) (Graph/BCC_edge.cpp
+[6] (Graph/BCC_edge.cpp) (Graph/Prim.cpp) (Graph/Bellman_ford.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]) (Graph/Prim.cpp) (Graph/Kruskal.cpp) (Graph/Dijkstra.cpp
+[7]) (Graph/Kruskal.cpp) (Graph/Dijkstra.cpp) (Graph/Kosaraju_SCC.cpp)
+(Graph/Matching/Hungarian.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8]) (Graph/Kosaraju_SCC.cpp) (Graph/Matching/Hungarian.cpp)
-(Graph/Matching/Kuhn_Munkres.cpp
+[8]) (Graph/Matching/Kuhn_Munkres.cpp) (Graph/Min_mean_cycle.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[9]) (Graph/Min_mean_cycle.cpp) (Graph/negative_cycle_validation.cpp
+[9]) (Graph/negative_cycle_validation.cpp) (Graph/Tarjan.cpp)
+(Graph/Topological_Sort.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[10]) (Graph/Tarjan.cpp) (Graph/Topological_Sort.cpp)
-(DataStructure/2D_RangeTree.cpp
+[10]) (DataStructure/2D_RangeTree.cpp) (DataStructure/SparseTable.h)
+(DataStructure/Segment_tree.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11]) (DataStructure/SparseTable.h) (DataStructure/Segment_tree.cpp)
-(DataStructure/Lazy_tag.cpp
+[11]) (DataStructure/Lazy_tag.cpp
 Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
 Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
 !
@@ -673,65 +700,43 @@ Missing character: There is no � in font Consolas/OT:script=latn;language=dflt
 !
 Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
 !
-) (String/AC.cpp
+) (String/KMP.h) (String/smallest_rotation.cpp) (String/suffix_array.cpp) (Stri
+ng/Z-value.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[12]) (String/KMP.h) (String/PalindromicTree.cpp) (String/SAM.cpp
+[12]) (Other/count_spanning_tree.cpp) (Other/Dp1D1D.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[13]) (String/smallest_rotation.cpp) (String/suffix_array.cpp)
-(String/Z-value.cpp) (Other/count_spanning_tree.cpp
+[13]) (Other/DP-optimization.txt) (Other/Marriage.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(Other/CYK.cpp
+[14]) (Other/python.py))
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[15]) (Other/DigitCounting.cpp) (Other/Dp1D1D.cpp) (Other/DP-optimization.txt)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[16] (Other/Marriage.cpp) (Other/Parser.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[17]) (Other/python.py))
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[18] (codebook.aux)
+[15] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11060 strings out of 411295
- 224633 string characters out of 2832249
- 1745217 words of memory out of 3000000
- 31208 multiletter control sequences out of 15000+600000
- 405527 words of font info for 66 fonts, out of 8000000 for 9000
+ 10971 strings out of 414218
+ 226110 string characters out of 2898281
+ 1250355 words of memory out of 3000000
+ 28226 multiletter control sequences out of 15000+200000
+ 533885 words of font info for 62 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,12n,81p,250b,1647s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,70p,250b,1627s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on codebook.pdf (18 pages).
+Output written on codebook.pdf (15 pages).

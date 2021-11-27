@@ -1,3 +1,4 @@
+記得測試 python 的內建函數庫有哪些
 bits/std++.h 跟 global variable y1 衝突，不能用
 模板要記得 init
 priority_queue 要清空
