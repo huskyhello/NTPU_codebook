@@ -19,11 +19,6 @@ degree(i) , i==j
 2、 去掉第r行，第r列（r任意）
 3、 计算矩阵的行列式
 
-/* ***********************************************
-MYID    : Chen Fan
-LANG    : G++
-PROG    : Count_Spaning_Tree_From_Kuangbin
-************************************************ */
 #include <stdio.h>
 #include <string.h>
 #include <algorithm>

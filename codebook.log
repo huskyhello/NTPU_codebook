@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2021.3.3)  27 NOV 2021 11:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2021.3.3)  30 NOV 2021 23:59
 entering extended mode
 **./codebook.tex
 (codebook.tex
@@ -473,7 +473,12 @@ ty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 \symCJKmath=\mathgroup255
- (codebook.aux)
+
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
+(codebook.aux)
 \openout1 = `codebook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
@@ -602,139 +607,111 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+)
+(Math/GaussElimination.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[4]) (Math/GaussElimination.cpp) (Math/Inverse.cpp) (Math/LinearPrime.cpp)
-(Math/Miller-Rabin.cpp) (Math/pollardRho.cpp)
+[4]) (Math/Inverse.cpp) (Math/LinearPrime.cpp) (Math/Miller-Rabin.cpp)
+(Math/pollardRho.cpp)
 
 LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/b/n' undefined
 (Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 45.
 
-(Math/number_tool.cpp
+(Math/number_tool.cpp) (Math/Mobius.cpp) (Math/Sprague-Grundy.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (Math/Mobius.cpp) (Math/Sprague-Grundy.cpp) (Math/theorem.cpp
+[5]) (Math/theorem.cpp
 
 LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/m/it' undefined
 (Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 20.
 
-)
+) (Graph/BCC_edge.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[6]) (Graph/Prim.cpp) (Graph/Bellman_ford.cpp) (Graph/Kruskal.cpp)
+(Graph/Dijkstra.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[7]) (Graph/Kosaraju_SCC.cpp) (Graph/Matching/Hungarian.cpp)
+(Graph/Matching/Kuhn_Munkres.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[8]) (Graph/Min_mean_cycle.cpp) (Graph/negative_cycle_validation.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[9]) (Graph/Tarjan.cpp) (Graph/Topological_Sort.cpp)
+(DataStructure/2D_RangeTree.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[10]) (DataStructure/SparseTable.h) (DataStructure/Segment_tree.cpp)
+(DataStructure/Lazy_tag.cpp) (String/KMP.h) (String/smallest_rotation.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[11]) (String/suffix_array.cpp) (String/Z-value.cpp)
+(Other/count_spanning_tree.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[12]) (Other/Dp1D1D.cpp) (Other/DP-optimization.txt) (Other/Marriage.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[6] (Graph/BCC_edge.cpp) (Graph/Prim.cpp) (Graph/Bellman_ford.cpp
+)
+(Other/python.py)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]) (Graph/Kruskal.cpp) (Graph/Dijkstra.cpp) (Graph/Kosaraju_SCC.cpp)
-(Graph/Matching/Hungarian.cpp
+[14])
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8]) (Graph/Matching/Kuhn_Munkres.cpp) (Graph/Min_mean_cycle.cpp
+[15
 
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[9]) (Graph/negative_cycle_validation.cpp) (Graph/Tarjan.cpp)
-(Graph/Topological_Sort.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[10]) (DataStructure/2D_RangeTree.cpp) (DataStructure/SparseTable.h)
-(DataStructure/Segment_tree.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[11]) (DataStructure/Lazy_tag.cpp
-Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Invalid UTF-8 byte or sequence at line 8 replaced by U+FFFD.
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Missing character: There is no ק in font Consolas/OT:script=latn;language=dflt;
-!
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-Missing character: There is no � in font Consolas/OT:script=latn;language=dflt;
-!
-) (String/KMP.h) (String/smallest_rotation.cpp) (String/suffix_array.cpp) (Stri
-ng/Z-value.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[12]) (Other/count_spanning_tree.cpp) (Other/Dp1D1D.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[13]) (Other/DP-optimization.txt) (Other/Marriage.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[14]) (Other/python.py))
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[15] (codebook.aux)
+] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 10971 strings out of 414218
- 226110 string characters out of 2898281
- 1250355 words of memory out of 3000000
- 28226 multiletter control sequences out of 15000+200000
+ 10958 strings out of 414218
+ 225960 string characters out of 2898281
+ 1302372 words of memory out of 3000000
+ 28213 multiletter control sequences out of 15000+200000
  533885 words of font info for 62 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  44i,12n,70p,250b,1627s stack positions out of 5000i,500n,10000p,200000b,50000s

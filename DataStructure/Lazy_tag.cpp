@@ -1,14 +1,14 @@
 void modify(type value, int l, int r, int L, int R, vertex v){
     if(l == L && r == R){
-        ¥´Ãi¼Ğ¦bv¤W;
+        //æ‰“æ‡¶æ¨™åœ¨vä¸Š;
         return;
     }
     int M = (L + R) / 2;
-    if(r <= M) modify(value, l, r, L, M, vªº¥ª¤l¸`ÂI);
-    else if(l > M) modify(value, l, r, M + 1, R, vªº¥k¤l¸`ÂI);
+    if(r <= M) modify(value, l, r, L, M, //vçš„å·¦å­ç¯€é»);
+    else if(l > M) modify(value, l, r, M + 1, R, //vçš„å³å­ç¯€é»);
     else{
-        modify(value, l, M, L, M, vªº¥ª¤l¸`ÂI);
-        modify(value, M + 1, r, M + 1, R, vªº¥k¤l¸`ÂI);
+        modify(value, l, M, L, M, vçš„å·¦å­ç¯€é»);
+        modify(value, M + 1, r, M + 1, R, //vçš„å³å­ç¯€é»);
     }
-    ¥Î¨â­Ó¤l¸`ÂIªºµª®×§ó·svªºµª®×;
+    //ç”¨å…©å€‹å­ç¯€é»çš„ç­”æ¡ˆæ›´æ–°vçš„ç­”æ¡ˆ;
 }
